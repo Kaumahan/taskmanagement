@@ -1,5 +1,6 @@
 # Install PHP & JS dependencies
 composer install
+
 npm install
 
 # Setup environment
