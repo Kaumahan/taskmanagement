@@ -6,11 +6,17 @@ npm install
 cp .env.example .env
 
 update this lines
+
 DB_CONNECTION=mysql
+
 DB_HOST=127.0.0.1
+
 DB_PORT=3306
+
 DB_DATABASE=taskmanager
+
 DB_USERNAME=root
+
 DB_PASSWORD=
 
 php artisan key:generate
